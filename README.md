@@ -8,4 +8,4 @@
   <img src="https://leetcard.jacoblin.cool/habibium?theme=dark&ext=activity"/>
 </p>
 
-📫 To reach me [habib.prodev@gmail.com](mailto:habib.prodev@gmail.com)
+📫 To reach me [hi@habibium.com](mailto:hi@habibium.com)
