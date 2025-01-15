@@ -7,5 +7,7 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/habibium?theme=dark&ext=activity"/>
 </p>
-
-📫 To reach me [hi@habibium.com](mailto:hi@habibium.com)
+<p align="center">
+  <a href='https://ko-fi.com/C0C0191QBN' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
+<p align="center">📫 To reach me [hi@habibium.com](mailto:hi@habibium.com)</p>
